@@ -1,3 +1,3 @@
 # geo-tagged-tweet
 
-I used key word "National Park" to see how people visit or not visit national park during this pandemic, also trying to see how national parks tried to engage people online.
+I used key word "Park" to see how people recreate themselves during this special time and how important green space is for people recently.
