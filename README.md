@@ -17,4 +17,4 @@ Like a few other researchers may have found, twitts cluster in densely populated
 So what people say about ***park***?
 - There are people saying about because of the lock down, it is a good way to get some vitamin D. While some others say it is a good day for a hike.
 - But there are other irrelevant tweets, such as I am watching Jurrasic Park, or the name of the place is called Park city or Park avenue.
-- In order to get more context based tweets, I may need more accurate crawler.
+- In order to get more context based tweets, I may need to adjust the web crawler, or run the crawler for a longer time.
